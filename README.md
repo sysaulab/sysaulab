@@ -2,7 +2,7 @@
 - 👀 I’m interested in numbers
 - 🌱 I’m currently learning oxidizing
 - 💞️ I’m looking to collaborate on evolution
-- 📫 How to reach me: dont
+- 📫 How to reach me: info@softrng.org
 
 <!---
 sysaulab/sysaulab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
