@@ -1,7 +1,6 @@
 - 👋 Hi, I’m SysauLAB
 - 👀 I’m interested in numbers
 - 🌱 I’m currently learning oxidizing
-- 💞️ I’m looking to collaborate on evolution
 - 📫 How to reach me: sylvain@sysau.com
 
 <!---
