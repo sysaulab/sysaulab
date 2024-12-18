@@ -1,7 +1,6 @@
 - 👋 Hi, I’m SysauLAB
 - 👀 I’m interested in numbers
 - 🌱 I’m currently learning oxidizing
-- 📫 How to reach me: sylvain@sysau.com
 
 <!---
 sysaulab/sysaulab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
